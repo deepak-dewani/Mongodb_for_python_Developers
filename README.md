@@ -5,10 +5,10 @@ This course will teach you how to use MongoDB as the database for a Python appli
 
 You'll play the role of a back-end developer for a Python application, and your job is to implement the application's communication with MongoDB. This includes:
 
-1. Reading and writing data
-2.Using the Aggregation Framework
-3.Managing the configuration of the database client through the Python driver
-4.Creating a robust application by handling exceptions and timeouts
+1.       Reading and writing data
+2.       Using the Aggregation Framework
+3.       Managing the configuration of the database client through the Python driver
+4.       Creating a robust application by handling exceptions and timeouts
 
 ## Prerequisites:
 
